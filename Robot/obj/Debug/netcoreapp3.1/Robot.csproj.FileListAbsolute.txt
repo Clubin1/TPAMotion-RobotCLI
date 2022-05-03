@@ -1,0 +1,13 @@
+C:\Users\jtubay\source\repos\Robot\Robot\bin\Debug\netcoreapp3.1\Robot.deps.json
+C:\Users\jtubay\source\repos\Robot\Robot\bin\Debug\netcoreapp3.1\Robot.dll
+C:\Users\jtubay\source\repos\Robot\Robot\bin\Debug\netcoreapp3.1\Robot.pdb
+C:\Users\jtubay\source\repos\Robot\Robot\obj\Debug\netcoreapp3.1\Robot.AssemblyInfoInputs.cache
+C:\Users\jtubay\source\repos\Robot\Robot\obj\Debug\netcoreapp3.1\Robot.AssemblyInfo.cs
+C:\Users\jtubay\source\repos\Robot\Robot\obj\Debug\netcoreapp3.1\Robot.csproj.CoreCompileInputs.cache
+C:\Users\jtubay\source\repos\Robot\Robot\obj\Debug\netcoreapp3.1\Robot.dll
+C:\Users\jtubay\source\repos\Robot\Robot\obj\Debug\netcoreapp3.1\Robot.pdb
+C:\Users\jtubay\source\repos\Robot\Robot\bin\Debug\netcoreapp3.1\Robot.exe
+C:\Users\jtubay\source\repos\Robot\Robot\bin\Debug\netcoreapp3.1\Robot.runtimeconfig.json
+C:\Users\jtubay\source\repos\Robot\Robot\bin\Debug\netcoreapp3.1\Robot.runtimeconfig.dev.json
+C:\Users\jtubay\source\repos\Robot\Robot\obj\Debug\netcoreapp3.1\Robot.genruntimeconfig.cache
+C:\Users\jtubay\source\repos\Robot\Robot\obj\Debug\netcoreapp3.1\Robot.csprojAssemblyReference.cache
